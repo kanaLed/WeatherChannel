@@ -4,20 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/07/2018
 
 ### Student Name:  
-(First and Last Name)
+Kana Ledbetter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is the optional credit assignment in the Web Application Development course at FSU.
+
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned jQuery.
+2. In this lesson I learned JSON-formated data.
+3. In this lesson I learned AJAX.
 
+jQuery, AJAX, and JSON-formatted data
