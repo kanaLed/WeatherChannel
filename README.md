@@ -14,7 +14,7 @@ This assignment is the optional credit assignment in the Web Application Develop
 
 
 ### View Project:
-
+https://kanaled.github.io/WeatherChannel/
 
 
 ### Lessons Learned in the Assignment:
@@ -22,4 +22,3 @@ This assignment is the optional credit assignment in the Web Application Develop
 2. In this lesson I learned JSON-formated data.
 3. In this lesson I learned AJAX.
 
-jQuery, AJAX, and JSON-formatted data
